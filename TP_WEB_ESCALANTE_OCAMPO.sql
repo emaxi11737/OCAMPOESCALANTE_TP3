@@ -6,7 +6,6 @@ GO
 USE TP_WEB_ESCALANTE_OCAMPO
 Go
 
-set dateformat 'dmy'
 
 CREATE TABLE Productos(
     IdProducto INT NOT NULL IDENTITY (1, 1) PRIMARY KEY,
@@ -51,3 +50,16 @@ create procedure SP_AGREGARCLIENTE(
 )
 as
 insert into Clientes (DNI,Nombre,Apellido,Email,Direccion,FechaRegistro) values (@DNI,@Nombre,@Apellido,@Email,@Direccion,GETDATE())
+
+insert into Productos values
+('SILLA','SILLA GAMER PRO DXRACER'),
+('PLACA','PLACA DE VIDEO MSI GEFORCE GTX1080'),
+('PROCESADOR','PROCESADOR RYZEN THREADRIPPER')
+
+insert into Clientes values
+(1234,'Maxi', 'Escalante', 'me@gmail.com', 'EnCasa1234', GETDATE()),
+(1245,'Abril', 'Ocampo', 'abril.agustina@gmail.com', 'Quintana', GETDATE())
+
+select * from Vouchers
+select * from Clientes
+select * from Productos
