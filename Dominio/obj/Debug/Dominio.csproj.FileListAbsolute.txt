@@ -4,3 +4,9 @@ C:\Users\Eli\source\repos\TP3_Web\Dominio\obj\Debug\Dominio.csprojAssemblyRefere
 C:\Users\Eli\source\repos\TP3_Web\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Eli\source\repos\TP3_Web\Dominio\obj\Debug\Dominio.dll
 C:\Users\Eli\source\repos\TP3_Web\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Dominio\bin\Debug\Dominio.dll
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Dominio\obj\Debug\Dominio.dll
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Dominio\obj\Debug\Dominio.pdb

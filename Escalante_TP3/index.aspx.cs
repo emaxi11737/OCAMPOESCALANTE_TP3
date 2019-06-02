@@ -34,6 +34,7 @@ namespace Escalante_TP3
                         {
                             correcto2 = true;
                         }
+                        
                         break;
                     }
                     else
@@ -55,7 +56,12 @@ namespace Escalante_TP3
                 }
                 
             }
-            if(correcto2==true) Response.Redirect("~/Premios.aspx?VoucherId="+i);
+            if (correcto2 == true)
+            {
+                Session["idVoucher"] = (i+1).ToString();
+                Response.Redirect("~/Premios.aspx?VoucherId=" + i);
+               
+            }
         }
     }
 }

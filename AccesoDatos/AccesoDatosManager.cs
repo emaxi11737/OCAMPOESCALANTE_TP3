@@ -10,7 +10,7 @@ namespace AccesoDatos
 {
     public class AccesoDatosManager
     {
-        public static string cadenaConexion = "data source=Eliana\\SQLEXPRESS; initial catalog=TP_WEB_ESCALANTE_OCAMPO; integrated security=sspi";
+        public static string cadenaConexion = "data source=DESKTOP-JC6H8P1\\SQLEXPRESS; initial catalog=TP_WEB_ESCALANTE_OCAMPO; integrated security=sspi";
         private SqlCommand comando;
         private SqlConnection conexion;
         private SqlDataReader lector;

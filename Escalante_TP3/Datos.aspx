@@ -5,6 +5,7 @@
         <label for="example-number-input" class="col-2 col-form-label">DNI</label>
         <div class="col-10">
             <asp:TextBox CssClass="form-control" ID="txtDNI" runat="server" OnTextChanged="txtDNI_TextChanged"></asp:TextBox>
+            <asp:Button ID="Button1" class="btn btn-primary" runat="server" Text="Ya estoy registrado" OnClick="Button1_Click" />
         </div>
     </div>
     <div class="form-group row">
@@ -30,7 +31,7 @@
         </div>
     </div>
     <div>
-        <asp:Button id="btnAceptar" Text="Aceptar" OnClick="btnAceptar_Click" runat="server"/>
+        <asp:Button id="btnAceptar" class="btn btn-primary" Text="Aceptar" OnClick="btnAceptar_Click" runat="server"/>
     </div>
     
 </asp:Content>

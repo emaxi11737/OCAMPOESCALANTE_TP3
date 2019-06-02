@@ -42,6 +42,7 @@ namespace Negocio
             }
         }
 
+
         public void modificarVoucher(Vouchers modificar)
         {
             AccesoDatosManager accesoDatos = new AccesoDatosManager();

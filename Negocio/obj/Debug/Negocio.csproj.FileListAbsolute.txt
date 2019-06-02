@@ -9,3 +9,14 @@ C:\Users\Eli\source\repos\TP3_Web\Negocio\obj\Debug\Negocio.csproj.CoreCompileIn
 C:\Users\Eli\source\repos\TP3_Web\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Eli\source\repos\TP3_Web\Negocio\obj\Debug\Negocio.dll
 C:\Users\Eli\source\repos\TP3_Web\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\bin\Debug\Negocio.dll
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\bin\Debug\Dominio.dll
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\obj\Debug\Negocio.dll
+C:\Users\Maxi\Desktop\TP3WEBOCAMPOESCALANTE\TP3_WEB_ESCALANTEOCAMPO\TP3_WEB_ESCALANTEOCAMPO\Negocio\obj\Debug\Negocio.pdb

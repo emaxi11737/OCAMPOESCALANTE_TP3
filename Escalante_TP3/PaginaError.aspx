@@ -1,20 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="PaginaError.aspx.cs" Inherits="Escalante_TP3.PaginaError" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="PaginaError.aspx.cs" MasterPageFile="~/Site.Master" Inherits="Escalante_TP3.PaginaError" %>
 
-<!DOCTYPE html>
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <h1 style="font-family: 'Roboto Slab', serif;">Su codigo no es valido.</h1>
+    <asp:Button ID="Button1" class="btn btn-primary" runat="server" Text="Volver al menu principal" OnClick="Volver_Click" />
+</asp:Content>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>ERROR</title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <h1>UPS!</h1>
-        <div>
-    <p>Ha ocurrido un error..</p>
-    <asp:Button ID="Volver" class="btn btn-danger" runat="server" Text="Página principal" OnClick="Volver_Click" />
-        </div>
-    </form>
-    
-</body>
-</html>
+

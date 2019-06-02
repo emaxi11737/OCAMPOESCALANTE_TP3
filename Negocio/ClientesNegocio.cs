@@ -18,13 +18,14 @@ namespace Negocio
             Clientes cliente;
             try
             {
-                accesoDatos.setearConsulta("SELECT IDCLIENTE, NOMBRE, APELLIDO, EMAIL, DIRECCION FROM CLIENTES");
+                accesoDatos.setearConsulta("SELECT IDCLIENTE,DNI, NOMBRE, APELLIDO, EMAIL, DIRECCION FROM CLIENTES");
                 accesoDatos.abrirConexion();
                 accesoDatos.ejecutarConsulta();
                 while (accesoDatos.Lector.Read())
                 {
                     cliente = new Clientes();
                     cliente.Id = (int)accesoDatos.Lector["IDCLIENTE"];
+                    cliente.DNI = (int)accesoDatos.Lector["DNI"];
                     cliente.Nombre = accesoDatos.Lector["NOMBRE"].ToString();
                     cliente.Apellido = accesoDatos.Lector["APELLIDO"].ToString();
                     cliente.Email = accesoDatos.Lector["EMAIL"].ToString();
@@ -75,7 +76,7 @@ namespace Negocio
             AccesoDatosManager accesoDatos = new AccesoDatosManager();
             try
             {
-                accesoDatos.setearConsulta("update CLIENTE Set DNI=@DNI,Nombre=@Nombre,Apellido=@Apellido,Email=@email,Direccion=@direccion Where IdCliente=" + modificar.Id.ToString());
+                accesoDatos.setearConsulta("update CLIENTES Set DNI=@DNI,Nombre=@Nombre,Apellido=@Apellido,Email=@email,Direccion=@direccion Where IdCliente=" + modificar.Id.ToString());
                 accesoDatos.Comando.Parameters.Clear();
                 accesoDatos.Comando.Parameters.AddWithValue("@DNI", modificar.DNI);
                 accesoDatos.Comando.Parameters.AddWithValue("@Nombre", modificar.Nombre);

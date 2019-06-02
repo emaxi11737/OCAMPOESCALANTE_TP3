@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <table width="1000" border="0" cellpadding="5">
-
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
 
         <tr>
 
